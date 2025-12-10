@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.1.1",
+  "releasedAt": "2025-12-10T23:09:02Z",
+  "notesUrl": "https://github.com/skynatbs/salonero/releases/tag/v1.1.1",
+  "windows": {
+    "downloadUrl": "https://github.com/skynatbs/salonero/releases/download/v1.1.1/Salonero-Setup-1.1.1-x64.exe"
+  },
+  "macos": {
+    "downloadUrl": "https://github.com/skynatbs/salonero/releases/download/v1.1.1/Salonero-1.1.1.dmg"
+  }
+}
