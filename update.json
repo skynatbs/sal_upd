@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.2.0",
-  "releasedAt": "2026-02-11T08:43:32Z",
-  "notesUrl": "https://github.com/skynatbs/salonero/releases/tag/v1.2.0",
+  "latestVersion": "1.2.1",
+  "releasedAt": "2026-02-14T00:12:30Z",
+  "notesUrl": "https://github.com/skynatbs/sal_upd/releases/tag/v1.2.1",
   "windows": {
-    "downloadUrl": "https://github.com/skynatbs/salonero/releases/download/v1.2.0/Salonero-Setup-1.2.0-x64.exe"
+    "downloadUrl": "https://github.com/skynatbs/sal_upd/releases/download/v1.2.1/Salonero-Setup-1.2.1-x64.exe"
   },
   "macos": {
-    "downloadUrl": "https://github.com/skynatbs/salonero/releases/download/v1.2.0/Salonero-1.2.0.dmg"
+    "downloadUrl": "https://github.com/skynatbs/sal_upd/releases/download/v1.2.1/Salonero-1.2.1.dmg"
   }
 }
